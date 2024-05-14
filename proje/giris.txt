@@ -1,0 +1,5 @@
+yaz: 10 a 1 \b 8 k 4 p
+sil: 4 k
+yaz: 3 r 1 \n 3 t 6 u 9 o 10 d
+sil: 5 o
+yaz: 4 E 2 \n 6 y 8 z 7 x
